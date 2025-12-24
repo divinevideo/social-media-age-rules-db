@@ -1,0 +1,681 @@
+[
+  {
+    "state_jurisdiction_id": "USA-AR",
+    "metric_name": "law_name",
+    "metric_value": "Social Media Safety Act",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-AR",
+    "metric_name": "scope",
+    "metric_value": "platform",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-AR",
+    "metric_name": "normalized_status",
+    "metric_value": "INJUNCTION (blocked)",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-AR",
+    "metric_name": "status_detail",
+    "metric_value": "Permanently enjoined / blocked by court order (NetChoice challenge)",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-AR",
+    "metric_name": "ban_age",
+    "metric_value": "None",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-AR",
+    "metric_name": "min_age",
+    "metric_value": "None",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-AR",
+    "metric_name": "consent_age",
+    "metric_value": "18.0",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-AR",
+    "metric_name": "age_verification_required",
+    "metric_value": "1.0",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-AR",
+    "metric_name": "parental_consent_required",
+    "metric_value": "1.0",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-AR",
+    "metric_name": "app_store_obligation",
+    "metric_value": "False",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-AR",
+    "metric_name": "diVine_action_flag_det",
+    "metric_value": "MONITOR_ONLY",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-AR",
+    "metric_name": "diVine_action_flag",
+    "metric_value": "MONITOR_ONLY",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-AR",
+    "metric_name": "core_requirements",
+    "metric_value": "Age verification; parental consent for minors; restrictions on minors’ access",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-AR",
+    "metric_name": "effective_date_original",
+    "metric_value": "2023-09-01",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-AR",
+    "metric_name": "last_known_update",
+    "metric_value": "2025-12-21",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-AR",
+    "metric_name": "primary_source_id",
+    "metric_value": "NCSL-2024",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-OH",
+    "metric_name": "law_name",
+    "metric_value": "Social Media Parental Notification Act",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-OH",
+    "metric_name": "scope",
+    "metric_value": "platform",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-OH",
+    "metric_name": "normalized_status",
+    "metric_value": "INJUNCTION (blocked)",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-OH",
+    "metric_name": "status_detail",
+    "metric_value": "Permanently blocked as unconstitutional (NetChoice v. Yost)",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-OH",
+    "metric_name": "ban_age",
+    "metric_value": "None",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-OH",
+    "metric_name": "min_age",
+    "metric_value": "None",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-OH",
+    "metric_name": "consent_age",
+    "metric_value": "16.0",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-OH",
+    "metric_name": "age_verification_required",
+    "metric_value": "1.0",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-OH",
+    "metric_name": "parental_consent_required",
+    "metric_value": "1.0",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-OH",
+    "metric_name": "app_store_obligation",
+    "metric_value": "False",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-OH",
+    "metric_name": "diVine_action_flag_det",
+    "metric_value": "MONITOR_ONLY",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-OH",
+    "metric_name": "diVine_action_flag",
+    "metric_value": "MONITOR_ONLY",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-OH",
+    "metric_name": "core_requirements",
+    "metric_value": "Age verification + parental consent under 16",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-OH",
+    "metric_name": "effective_date_original",
+    "metric_value": "2024-01-15",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-OH",
+    "metric_name": "last_known_update",
+    "metric_value": "2025-12-21",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-OH",
+    "metric_name": "primary_source_id",
+    "metric_value": "OH-Verge-2025",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-CA",
+    "metric_name": "law_name",
+    "metric_value": "Protecting Our Kids from Social Media Addiction Act",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-CA",
+    "metric_name": "scope",
+    "metric_value": "platform",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-CA",
+    "metric_name": "normalized_status",
+    "metric_value": "PARTIAL (mixed)",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-CA",
+    "metric_name": "status_detail",
+    "metric_value": "Ninth Circuit remanded to modify injunction; some provisions may proceed while others enjoined—verify current operative order before relying.",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-CA",
+    "metric_name": "ban_age",
+    "metric_value": "None",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-CA",
+    "metric_name": "min_age",
+    "metric_value": "None",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-CA",
+    "metric_name": "consent_age",
+    "metric_value": "None",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-CA",
+    "metric_name": "age_verification_required",
+    "metric_value": "None",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-CA",
+    "metric_name": "parental_consent_required",
+    "metric_value": "None",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-CA",
+    "metric_name": "app_store_obligation",
+    "metric_value": "False",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-CA",
+    "metric_name": "diVine_action_flag_det",
+    "metric_value": "MONITOR_ONLY",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-CA",
+    "metric_name": "diVine_action_flag",
+    "metric_value": "MONITOR_ONLY",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-CA",
+    "metric_name": "core_requirements",
+    "metric_value": "Default settings; limits on addictive feeds/design absent parental consent; algorithmic feed restrictions",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-CA",
+    "metric_name": "last_known_update",
+    "metric_value": "2025-12-21",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-CA",
+    "metric_name": "primary_source_id",
+    "metric_value": "CA9-Opinion-2025",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-GA",
+    "metric_name": "law_name",
+    "metric_value": "Parental consent for minors on social media (effective July 1)",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-GA",
+    "metric_name": "scope",
+    "metric_value": "platform",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-GA",
+    "metric_name": "normalized_status",
+    "metric_value": "LITIGATION PENDING",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-GA",
+    "metric_name": "status_detail",
+    "metric_value": "NetChoice lawsuit filed; enforceability subject to court orders.",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-GA",
+    "metric_name": "ban_age",
+    "metric_value": "None",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-GA",
+    "metric_name": "min_age",
+    "metric_value": "None",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-GA",
+    "metric_name": "consent_age",
+    "metric_value": "16.0",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-GA",
+    "metric_name": "age_verification_required",
+    "metric_value": "1.0",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-GA",
+    "metric_name": "parental_consent_required",
+    "metric_value": "1.0",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-GA",
+    "metric_name": "app_store_obligation",
+    "metric_value": "False",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-GA",
+    "metric_name": "diVine_action_flag_det",
+    "metric_value": "MONITOR_ONLY",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-GA",
+    "metric_name": "diVine_action_flag",
+    "metric_value": "MONITOR_ONLY",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-GA",
+    "metric_name": "core_requirements",
+    "metric_value": "Age verification; parental consent under 16; limits on data collection/ads",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-GA",
+    "metric_name": "effective_date_original",
+    "metric_value": "2025-07-01",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-GA",
+    "metric_name": "last_known_update",
+    "metric_value": "2025-12-21",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-GA",
+    "metric_name": "primary_source_id",
+    "metric_value": "GA-AP-2025",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "law_name",
+    "metric_value": "Walker Montgomery Protecting Children Online Act (HB 1126)",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "scope",
+    "metric_value": "platform",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "normalized_status",
+    "metric_value": "IN FORCE",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "status_detail",
+    "metric_value": "Effective July 1, 2024 per secondary legal summary; monitor for any injunctions/changes.",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "ban_age",
+    "metric_value": "None",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "min_age",
+    "metric_value": "None",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "consent_age",
+    "metric_value": "18.0",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "age_verification_required",
+    "metric_value": "1.0",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "parental_consent_required",
+    "metric_value": "1.0",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "app_store_obligation",
+    "metric_value": "False",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "diVine_action_flag_det",
+    "metric_value": "PARENTAL_CONSENT_FLOW",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "diVine_action_detail_det",
+    "metric_value": "CONSENT_UNDER_18",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "diVine_action_flag",
+    "metric_value": "PARENTAL_CONSENT_FLOW",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "diVine_action_detail",
+    "metric_value": "CONSENT_(SPECIFY)",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "core_requirements",
+    "metric_value": "Age verification; parental consent before minors create accounts; data minimization/purpose limits",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "effective_date_original",
+    "metric_value": "2024-07-01",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "last_known_update",
+    "metric_value": "2025-12-21",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-MS",
+    "metric_name": "primary_source_id",
+    "metric_value": "MS-MMMLaw-2025",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-TX",
+    "metric_name": "law_name",
+    "metric_value": "App Store Accountability Act (SB 2420)",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-TX",
+    "metric_name": "scope",
+    "metric_value": "app_store",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-TX",
+    "metric_name": "normalized_status",
+    "metric_value": "LITIGATION PENDING",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-TX",
+    "metric_name": "status_detail",
+    "metric_value": "Lawsuits filed seeking to block ahead of Jan 1 effective date; decision pending.",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-TX",
+    "metric_name": "ban_age",
+    "metric_value": "None",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-TX",
+    "metric_name": "min_age",
+    "metric_value": "None",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-TX",
+    "metric_name": "consent_age",
+    "metric_value": "18.0",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-TX",
+    "metric_name": "age_verification_required",
+    "metric_value": "1.0",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-TX",
+    "metric_name": "parental_consent_required",
+    "metric_value": "1.0",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-TX",
+    "metric_name": "app_store_obligation",
+    "metric_value": "True",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-TX",
+    "metric_name": "diVine_action_flag_det",
+    "metric_value": "MONITOR_ONLY",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-TX",
+    "metric_name": "diVine_action_flag",
+    "metric_value": "MONITOR_ONLY",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-TX",
+    "metric_name": "core_requirements",
+    "metric_value": "App stores verify age; parental consent under 18 for downloads (exceptions)",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-TX",
+    "metric_name": "effective_date_original",
+    "metric_value": "2026-01-01",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-TX",
+    "metric_name": "last_known_update",
+    "metric_value": "2025-12-21",
+    "notes": null,
+    "effective_date": null
+  },
+  {
+    "state_jurisdiction_id": "USA-TX",
+    "metric_name": "primary_source_id",
+    "metric_value": "TX-Statesman-2025",
+    "notes": null,
+    "effective_date": null
+  }
+]

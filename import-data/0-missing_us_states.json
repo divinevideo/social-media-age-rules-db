@@ -1,0 +1,34 @@
+[
+  {
+    "jurisdiction_id": "USA-CA",
+    "name": "United States - California",
+    "level": "state",
+    "parent": "USA",
+    "iso_code": "US-CA",
+    "notes": "Auto-generated for US State Matrix data"
+  },
+  {
+    "jurisdiction_id": "USA-GA",
+    "name": "United States - Georgia",
+    "level": "state",
+    "parent": "USA",
+    "iso_code": "US-GA",
+    "notes": "Auto-generated for US State Matrix data"
+  },
+  {
+    "jurisdiction_id": "USA-MS",
+    "name": "United States - Mississippi",
+    "level": "state",
+    "parent": "USA",
+    "iso_code": "US-MS",
+    "notes": "Auto-generated for US State Matrix data"
+  },
+  {
+    "jurisdiction_id": "USA-OH",
+    "name": "United States - Ohio",
+    "level": "state",
+    "parent": "USA",
+    "iso_code": "US-OH",
+    "notes": "Auto-generated for US State Matrix data"
+  }
+]

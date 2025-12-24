@@ -1,0 +1,30 @@
+{
+  "name": "divine-age-rules-db",
+  "version": "1.0.0",
+  "description": "Database module for tracking social media age rules and regulations globally",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "vitest",
+    "test:once": "vitest run",
+    "build:admin": "cd admin-ui && npm run build",
+    "dev": "wrangler dev",
+    "deploy": "npm run build:admin && wrangler deploy",
+    "db:migrate:local": "wrangler d1 migrations apply divine-age-rules-db --local",
+    "db:migrate:prod": "wrangler d1 migrations apply divine-age-rules-db --remote"
+  },
+  "keywords": ["social-media", "age-verification", "regulations", "compliance"],
+  "author": "Divine.Video",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@noble/secp256k1": "^3.0.0",
+    "@scure/base": "^2.0.0",
+    "hono": "^4.10.6"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20251115.0",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.4",
+    "wrangler": "^4.47.0"
+  }
+}

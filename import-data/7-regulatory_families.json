@@ -1,0 +1,32 @@
+[
+  {
+    "family_name": "Hard minimum-age account bans",
+    "description": "Age threshold; scope definition; compliance standard; enforcement; penalties; carve-outs; effective date; litigation.",
+    "notes": "AUS (16+), USA-FL (<14), MYS (planned <16)"
+  },
+  {
+    "family_name": "Parental consent gating",
+    "description": "Age band; consent mechanism; verification of parent; revocation; dispute window; data minimization requirements.",
+    "notes": "USA-FL (14–15), FRA (<15), IDN (reported 13–16)"
+  },
+  {
+    "family_name": "Age assurance duties (risk-based)",
+    "description": "Which services; required assurance level; acceptable methods; privacy safeguards; audits; regulator guidance.",
+    "notes": "UK OSA (child duties), EU DSA Article 28 guidance, DEU JMStV, IRL OSC"
+  },
+  {
+    "family_name": "App store accountability / distribution gating",
+    "description": "Who is regulated (app stores); age assurance methods; parental consent; ratings; enforcement date; exceptions; litigation.",
+    "notes": "SGP ADS Code, USA-UT app store law, USA-TX SB2420 (scheduled), BRA ECA Digital (reported)"
+  },
+  {
+    "family_name": "Algorithm/design constraints for minors",
+    "description": "Default settings; recommender restrictions; addictive design limits; targeted ads limits; profiling bans; risk assessments.",
+    "notes": "BRA ECA Digital (reported ad/profiling limits), EU DSA minors guidelines (expectations)"
+  },
+  {
+    "family_name": "Litigation / constitutional constraints",
+    "description": "Injunctions/stays; merits rulings; appeals; settlement; compliance pauses; enforcement posture changes.",
+    "notes": "USA-AR (permanent injunction), USA-FL (injunction/appeal), USA-TX (lawsuits)"
+  }
+]

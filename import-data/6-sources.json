@@ -1,0 +1,233 @@
+[
+  {
+    "source_id": "AUS-eSafety",
+    "what": "Australia social media age restrictions overview and key measures/dates",
+    "url": "https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn0search1"
+  },
+  {
+    "source_id": "EU-AV-Blueprint",
+    "what": "EU age verification blueprint information",
+    "url": "https://digital-strategy.ec.europa.eu/en/policies/eu-age-verification",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn0search3"
+  },
+  {
+    "source_id": "EU-DSA-Minors-Guidelines",
+    "what": "Commission page on DSA minors guidelines",
+    "url": "https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-protection-minors",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn0search7"
+  },
+  {
+    "source_id": "UK-OSA-Collection",
+    "what": "UK government Online Safety Act collection page; child safety duties and age assurance",
+    "url": "https://www.gov.uk/government/collections/online-safety-act",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn1search0"
+  },
+  {
+    "source_id": "FL-Statute",
+    "what": "Florida Statute section for HB3 implementation",
+    "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0501/Sections/0501.1736.html",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn1search18"
+  },
+  {
+    "source_id": "FL-Reuters-PI",
+    "what": "Reuters on Florida HB3 preliminary injunction (June 3, 2025)",
+    "url": "https://www.reuters.com/legal/government/judge-blocks-florida-law-banning-social-media-accounts-children-2025-06-03/",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn1news51"
+  },
+  {
+    "source_id": "FL-Appeal",
+    "what": "Florida appellate decision allowing enforcement (Nov 26, 2025)",
+    "url": "https://www.cfpublic.org/politics/2025-11-26/florida-gets-ok-to-enforce-social-media-law-banning-kids",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn1search24"
+  },
+  {
+    "source_id": "TX-SB2420",
+    "what": "Texas SB 2420 lawsuits and Jan 1 effective date reporting",
+    "url": "https://www.statesman.com/business/technology/article/texas-app-store-age-verification-lawsuits-21244842.php",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn1news49"
+  },
+  {
+    "source_id": "UT-AppStore-AP",
+    "what": "AP on Utah app store age verification law effective May 7, 2025",
+    "url": "https://apnews.com/article/7e31de07ddca7b32cc82f7ead2c4adc9",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn1news54"
+  },
+  {
+    "source_id": "AR-Order",
+    "what": "NetChoice v. Griffin ruling PDF (Arkansas)",
+    "url": "https://arkansasadvocate.com/wp-content/uploads/2025/04/NetChoice-v-Griffin-Ruling-040125.pdf",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn1search13"
+  },
+  {
+    "source_id": "IRL-OSC-PDF",
+    "what": "Ireland Online Safety Code PDF (Oct 2024)",
+    "url": "https://www.cnam.ie/app/uploads/2024/10/Coimisiun-na-Mean_Online-Safety-Code.pdf",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn2search2"
+  },
+  {
+    "source_id": "FRA-ViePublique-2023",
+    "what": "France: Loi du 7 juillet 2023 majorité numérique (status/implementation note)",
+    "url": "https://www.vie-publique.fr/loi/288274-majorite-numerique-15-ans-reseaux-sociaux-loi-7-juillet-2023",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn2search5"
+  },
+  {
+    "source_id": "DEU-BIK-PolicyMonitor",
+    "what": "Germany policy monitor (Better Internet for Kids) – age verification/DSA context",
+    "url": "https://better-internet-for-kids.europa.eu/en/knowledge-hub/germany-policy-monitor-country-profile",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn0search4"
+  },
+  {
+    "source_id": "BRA-ECA-PDF",
+    "what": "Brazil ECA Digital English PDF (Law 15,211/2025)",
+    "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2025/novembro/brasil-apresenta-avancos-em-seguranca-digital-da-infancia-e-lanca-eca-digital-em-ingles-durante-cupula-social-do-g20-na-africa-do-sul/eca-digital-ing-v2.pdf",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn2search3"
+  },
+  {
+    "source_id": "CAN-S209",
+    "what": "Canada Bill S-209 first reading (Senate/Parliament)",
+    "url": "https://www.parl.ca/documentviewer/en/45-1/bill/S-209/first-reading",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn0search1"
+  },
+  {
+    "source_id": "SGP-IMDA-ADS",
+    "what": "IMDA press release on Online Safety Code for App Distribution Services (Jan 15 2025)",
+    "url": "https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2025/online-safety-code-of-practice-for-app-distribution-services",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn3search10"
+  },
+  {
+    "source_id": "SGP-MDDI-PQ",
+    "what": "Singapore MDDI PQ on age verification/restriction measures on app stores (Feb 18 2025)",
+    "url": "https://www.mddi.gov.sg/newsroom/pq-on-age-verification-and-restriction-measures-on-app-stores/",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn3search14"
+  },
+  {
+    "source_id": "MYS-AP-2025",
+    "what": "AP: Malaysia to ban social media accounts under 16 starting 2026 (announced)",
+    "url": "https://apnews.com/article/1e9e20321c8c83c470ff7489139f10b8",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn3news43"
+  },
+  {
+    "source_id": "IDN-TechInAsia-2025",
+    "what": "Tech in Asia: Indonesia PP Tunas reported restrictions (verify official text when available)",
+    "url": "https://www.techinasia.com/news/indonesia-to-limit-childrens-social-media-accounts-in-march-2026",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn3search11"
+  },
+  {
+    "source_id": "IND-AgeVerification-Context",
+    "what": "India analysis on DPDP/age verification scope (contextual)",
+    "url": "https://digitalrepublic.substack.com/p/on-online-safety-of-children-age",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn1search9"
+  },
+  {
+    "source_id": "NOR-Regjeringen-2025",
+    "what": "Norway government announcement on moving forward with age limit for social media",
+    "url": "https://www.regjeringen.no/en/whats-new/norway-moves-forward-with-age-limit-for-social-media/id3108682/",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn0search0"
+  },
+  {
+    "source_id": "DNK-AP-2025",
+    "what": "AP report: Denmark agreement to restrict social media under 15 (law pending)",
+    "url": "https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn1search0"
+  },
+  {
+    "source_id": "NLD-AP-Consent-2025",
+    "what": "Dutch DPA guidance: age limit 16 for consent",
+    "url": "https://www.autoriteitpersoonsgegevens.nl/en/themes/basic-gdpr/gdpr-basics/legal-basis-of-consent",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn1search14"
+  },
+  {
+    "source_id": "ESP-Moncloa-2025",
+    "what": "Spanish government: draft organic law to protect minors in digital environments sent to Parliament",
+    "url": "https://www.lamoncloa.gob.es/lang/en/gobierno/councilministers/paginas/2025/20250325-council-press-conference.aspx",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn1search16"
+  },
+  {
+    "source_id": "EU-FRA-Mapping-2018",
+    "what": "EU FRA mapping: minimum age requirements for consent (GDPR Art 8)",
+    "url": "https://fra.europa.eu/en/publication/2017/mapping-minimum-age-requirements-concerning-rights-child-eu/consent-use-data-children",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn1search6"
+  },
+  {
+    "source_id": "SAU-BMK-2025",
+    "what": "Baker McKenzie resource: Saudi PDPL minors/capacity and guardian consent (overview)",
+    "url": "https://resourcehub.bakermckenzie.com/en/resources/global-data-and-cyber-handbook/emea/saudi-arabia/topics/legal-bases-for-processing-of-personal-data",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn2search17"
+  },
+  {
+    "source_id": "ARE-TwoBirds-2025",
+    "what": "Bird & Bird: UAE protection of children online (notes PDPL has no child-specific consent provision)",
+    "url": "https://www.twobirds.com/en/insights/2025/united-arab-emirates/uae-protection-of-children-online",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn2search7"
+  },
+  {
+    "source_id": "NCSL-2024",
+    "what": "NCSL: Social media and children 2024 legislation overview",
+    "url": "https://www.ncsl.org/technology-and-communication/social-media-and-children-2024-legislation",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn3search5"
+  },
+  {
+    "source_id": "OH-Verge-2025",
+    "what": "The Verge: federal judge permanently blocks Ohio parental consent law",
+    "url": "https://www.theverge.com/news/651255/ohio-social-media-parental-consent-law-blocked-netchoice",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn3news44"
+  },
+  {
+    "source_id": "CA9-Opinion-2025",
+    "what": "9th Circuit opinion (PDF) on CA Protecting Our Kids from Social Media Addiction Act",
+    "url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2025/09/09/25-146.pdf",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn3search4"
+  },
+  {
+    "source_id": "GA-AP-2025",
+    "what": "AP: NetChoice sues Georgia over parental consent law for minors",
+    "url": "https://apnews.com/article/269b7ceb84613772234111984799d4ef",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn3news41"
+  },
+  {
+    "source_id": "TX-Statesman-2025",
+    "what": "Austin American-Statesman: lawsuits to block Texas SB 2420 app store age verification law",
+    "url": "https://www.statesman.com/business/technology/article/texas-app-store-age-verification-lawsuits-21244842.php",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn3news36"
+  },
+  {
+    "source_id": "MS-MMMLaw-2025",
+    "what": "Butler Snow summary: Mississippi Walker Montgomery Protecting Children Online Act effective July 1 2024",
+    "url": "https://www.mmmlaw.com/news-resources/102kyzf-state-laws-regulating-privacy-practices-of-social-media-providers/",
+    "retrieved": "2025-12-21",
+    "citation_ref": "turn3search8"
+  }
+]
