@@ -28,7 +28,7 @@ export default function Layout() {
               </div>
               <div>
                 <h1 className="text-white text-xl font-bold tracking-tight">Age Rules DB</h1>
-                <p className="text-indigo-300 text-xs font-medium">Divine.Video Admin</p>
+                <p className="text-indigo-300 text-xs font-medium">diVine.video Admin</p>
               </div>
             </div>
           </div>
