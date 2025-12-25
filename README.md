@@ -1,6 +1,6 @@
 # Divine Age Rules Database
 
-Database module for tracking social media age rules and regulations globally. Part of the Divine.Video admin dashboard ecosystem.
+Database module for tracking social media age rules and regulations globally. Part of the diVine.Video admin dashboard ecosystem.
 
 ## Features
 
