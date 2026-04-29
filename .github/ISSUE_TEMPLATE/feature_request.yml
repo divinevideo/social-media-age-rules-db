@@ -1,0 +1,31 @@
+name: Feature request
+description: Propose a new database, workflow, or admin UI capability
+title: "feat: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: Avoid sensitive partner, customer, or brand names in public issues and screenshots. Use generic descriptors unless a maintainer approved the specific name.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What problem should this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Include regulatory, rollout, or reporting considerations.
