@@ -1,0 +1,39 @@
+name: Bug report
+description: Report a problem in the age rules database or admin UI
+title: "fix: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: Avoid sensitive partner, customer, or brand names in public issues and screenshots. Use generic descriptors unless a maintainer approved the specific name.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What is broken?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Additional context
+      description: Include jurisdiction, environment, logs, or screenshots as needed.
